@@ -11,6 +11,32 @@
 
 ![image](https://github.com/user-attachments/assets/dbccc93f-f268-4531-9c39-c388ad6b5522)
 
+### 2. AI 기반 도서 추천 및 요약
+Book Hub는 AI를 활용하여 사용자가 입력한 키워드에 맞는 도서를 추천하고, 해당 도서의 요약을 제공합니다.
+
+![image](https://github.com/user-attachments/assets/093bf5f8-30cf-44a6-a13f-22af9841d9d0)
+
+### 3. 최근 들어온 책 및 인기 있는 책
+Book Hub는 최근 도서관에 들어온 책과 현재 인기 있는 책을 목록으로 제공합니다. 사용자는 이 목록을 통해 최신 도서와 대중적인 도서를 쉽게 확인할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/de86651e-918c-41c5-9a22-12c55c921df2)
+![image](https://github.com/user-attachments/assets/18ddd00c-26dd-46f3-ac0d-1a4c5553dc47)
+
+### 4. 도서 세부 정보
+특정 도서에 대한 자세한 정보를 제공하며, 도서관별 대출 가능 여부를 확인할 수 있습니다. 사용자는 검색한 도서의 위치와 대출 가능 여부를 쉽게 파악할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/d44341ea-d64d-4190-88f4-0113a8f20ad5)
+
+### 5. 마이페이지
+마이페이지에서는 사용자의 개인정보를 관리하고, 최근에 본 책들을 확인할 수 있습니다. 사용자는 이곳에서 개인정보를 수정하고, 본인의 독서 기록을 관리할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/7b9fa1a0-3a25-482d-a9ee-b27a68e023b0)
+
+### 6. 정보 수정
+마이페이지에서 사용자는 자신의 이메일, 전화번호, 주소 등을 수정할 수 있습니다. 이를 통해 개인정보를 항상 최신 상태로 유지할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/38623ea0-5feb-4569-84cd-ccad59dca583)
+
 ## Table of Contents
 - [소개](#소개)
 - [기술 스택](#기술-스택)

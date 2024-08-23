@@ -4,6 +4,12 @@
 
 ![Platform](https://img.shields.io/badge/platform-web-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+## 주요 기능
+
+### 1. 로그인 페이지
+사용자는 아이디와 비밀번호를 입력하여 Book Hub에 로그인할 수 있습니다. 계정이 없는 경우 회원가입 기능을 통해 계정을 생성할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/dbccc93f-f268-4531-9c39-c388ad6b5522)
 
 ## Table of Contents
 - [소개](#소개)
